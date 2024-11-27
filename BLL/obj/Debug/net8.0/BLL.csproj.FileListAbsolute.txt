@@ -1,0 +1,11 @@
+C:\Formation\CloudAzure\APIDemoDocker\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Formation\CloudAzure\APIDemoDocker\BLL\bin\Debug\net8.0\BLL.dll
+C:\Formation\CloudAzure\APIDemoDocker\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Formation\CloudAzure\APIDemoDocker\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formation\CloudAzure\APIDemoDocker\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Formation\CloudAzure\APIDemoDocker\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Formation\CloudAzure\APIDemoDocker\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Formation\CloudAzure\APIDemoDocker\BLL\obj\Debug\net8.0\BLL.dll
+C:\Formation\CloudAzure\APIDemoDocker\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Formation\CloudAzure\APIDemoDocker\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Formation\CloudAzure\APIDemoDocker\BLL\obj\Debug\net8.0\ref\BLL.dll

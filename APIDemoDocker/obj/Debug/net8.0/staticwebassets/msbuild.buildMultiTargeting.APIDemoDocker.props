@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIDemoDocker.props" />
+</Project>

@@ -1,0 +1,6 @@
+@APIDemoDocker_HostAddress = http://localhost:5169
+
+GET {{APIDemoDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

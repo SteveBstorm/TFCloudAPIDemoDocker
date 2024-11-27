@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xM8Fv9L6gDc/e+kkUH0BkH01V/6SzUwELskrulbAYnw=",
+  "Source": "APIDemoDocker",
+  "BasePath": "_content/APIDemoDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
